@@ -64,7 +64,7 @@ const Details = () => {
               />
             )}
           </div>
-          <div className="col-span-5 lg:col-span-3 xl:-ml-[105px]">
+          <div className="col-span-5 lg:col-span-3 ">
             <div className="text-4xl font-semibold flex flex-row items-center gap-2">
               <h1>{show.name}</h1>
               <a href={show.officialSite}>
